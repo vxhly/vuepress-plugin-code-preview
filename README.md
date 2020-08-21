@@ -3,7 +3,7 @@
 > A vuepress plugin for codesandbox embed code preview
 
 [![npm](https://img.shields.io/npm/v/vuepress-plugin-code-preview.svg)](https://www.npmjs.com/package/vuepress-plugin-code-preview)
-![GitHub stars](https://img.shields.io/github/stars/vxhly/vuepress-plugin-code-preview)](https://github.com/vxhly/vuepress-plugin-code-preview/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/vxhly/vuepress-plugin-code-preview)](https://github.com/vxhly/vuepress-plugin-code-preview/stargazers)
 [![GitHub license](https://img.shields.io/github/license/vxhly/vuepress-plugin-code-preview)](https://github.com/vxhly/vuepress-plugin-code-preview/blob/master/LICENSE)
 
 ## Install
