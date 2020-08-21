@@ -1,0 +1,26 @@
+{
+  "name": "vuepress-plugin-code-preview",
+  "version": "1.0.0",
+  "description": "A vuepress plugin for codesandbox embed code preview",
+  "main": "index.js",
+  "scripts": {
+    "eslint-ext": "eslint --ext .js,.vue ./",
+    "eslint-fix": "eslint --fix --ext .js,.vue ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vxhly/vuepress-plugin-code-preview.git"
+  },
+  "keywords": [
+    "vuepress",
+    "plugin",
+    "codesandbox",
+    "code-preview"
+  ],
+  "author": "vxhly <pengchengou@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vxhly/vuepress-plugin-code-preview/issues"
+  },
+  "homepage": "https://github.com/vxhly/vuepress-plugin-code-preview#readme"
+}
